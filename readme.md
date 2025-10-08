@@ -14,3 +14,10 @@ Le projet est divisé en deux étapes :
     - Déploiment du modèle
     - API avec flask
     - Test du modèle
+
+# Exécution du projet
+
+Installation des packages pour la partie du model, exécuter le fichier requirements.txt via cette commande : pip install -r requirement.txt
+Importer le fichier dans un notebok si vous voulez tester
+
+Pour lancer l'application, se placer dans le dossier *deploiement_model* et taper dans la console : python app.py
